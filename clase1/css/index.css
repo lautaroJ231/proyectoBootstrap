@@ -1,0 +1,19 @@
+body {
+    padding: 50px 100px;
+}
+
+.btn-danger{
+    width: 150px;
+    height: 50px;
+}
+
+.ms-1{
+    margin-left: 50px !important;
+}
+
+.boxUno{
+    border: 1px solid red;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+}
